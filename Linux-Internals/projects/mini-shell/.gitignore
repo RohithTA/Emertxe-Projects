@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.out
+/msh
+.vscode/
+*.swp
+.DS_Store
