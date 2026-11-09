@@ -7,7 +7,6 @@ A collection of assignments and projects completed during the Emertxe training p
 | Folder | Contents |
 |---|---|
 | `c/` | C programming assignments and projects |
-| `cpp/` | C++ assignments and projects |
 | `dsa/` | Data structures and algorithms |
 | `microcontrollers/` | Embedded / microcontroller work |
 
