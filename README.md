@@ -6,9 +6,9 @@ A collection of assignments and projects completed during the Emertxe training p
 
 | Folder | Contents |
 |---|---|
-| `c/` | C programming assignments and projects |
-| `dsa/` | Data structures and algorithms |
-| `microcontrollers/` | Embedded / microcontroller work |
+| `C-Programming/` | C programming assignments and projects |
+| `Data-Structures-and-Algorithms/` | Data structures and algorithms |
+| `Microcontrollers/` | Embedded / microcontroller work |
 
 Each folder has an `assignments/` and a `projects/` subfolder.
 
@@ -16,7 +16,7 @@ Each folder has an `assignments/` and a `projects/` subfolder.
 
 | Project | Description | Tech |
 |---|---|---|
-| [LSB Image Steganography](c/projects/lsb-image-steganography) | Hide and extract a secret file inside a BMP image | C, bitwise ops, file I/O |
+| [LSB Image Steganography](C-Programming/projects/lsb-image-steganography) | Hide and extract a secret file inside a BMP image | C, bitwise ops, file I/O |
 
 ## Author
 Rohith T A
