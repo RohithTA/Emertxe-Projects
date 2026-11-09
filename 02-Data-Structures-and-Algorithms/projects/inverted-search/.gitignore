@@ -2,7 +2,6 @@
 *.exe
 *.out
 /inverted_search
-/backup_database.txt
 .vscode/
 *.swp
 .DS_Store

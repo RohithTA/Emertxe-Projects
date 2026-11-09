@@ -12,6 +12,6 @@ $(TARGET): $(SRC) $(HDR)
 > $(CC) $(CFLAGS) $(SRC) -o $(TARGET)
 
 clean:
-> rm -f $(TARGET) $(TARGET).exe backup_database.txt
+> rm -f $(TARGET) $(TARGET).exe
 
 .PHONY: all clean
