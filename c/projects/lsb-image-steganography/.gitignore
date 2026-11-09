@@ -5,8 +5,8 @@
 /stego
 
 # Generated at runtime
-stego.bmp
-decode.*
+/stego.bmp
+/decode.*
 
 # Editor / OS files
 .vscode/
