@@ -1,0 +1,16 @@
+# Compiled output
+*.o
+*.exe
+*.out
+/stego
+
+# Generated at runtime
+stego.bmp
+decode.*
+
+# Editor / OS files
+.vscode/
+*.swp
+.DS_Store
+default_steged.bmp
+default_decoded*
