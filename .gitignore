@@ -1,0 +1,12 @@
+# Compiled output
+*.o
+*.exe
+*.out
+*.elf
+*.hex
+
+# Editor / OS files
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
