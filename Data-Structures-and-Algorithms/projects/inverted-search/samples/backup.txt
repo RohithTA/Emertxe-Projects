@@ -1,0 +1,9 @@
+#2;can;1;2;file2.txt;#
+#6;great;1;1;file2.txt;#
+#7;Hi;1;1;file1.txt;#
+#7;hello;1;1;file1.txt;#
+#8;is;1;1;file1.txt;#
+#19;this;2;1;file1.txt;1;file2.txt;#
+#19;take;1;1;file2.txt;#
+#22;who;1;1;file1.txt;#
+#24;you;1;1;file2.txt;#
